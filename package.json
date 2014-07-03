@@ -1,0 +1,18 @@
+{
+  "name": "dnode_test",
+  "version": "0.0.0",
+  "description": "dnode test ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dnode",
+    "nodejs"
+  ],
+  "author": "gabe testa",
+  "license": "mit",
+  "devDependencies": {
+    "dnode": "^1.2.0"
+  }
+}
